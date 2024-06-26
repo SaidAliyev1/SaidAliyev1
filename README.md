@@ -29,6 +29,12 @@ Python
 - Data analysis with Excel
 - Database management with SQL
 - Creating interactive dashboards with Power BI
+- Data visualization best practices
+- ETL (Extract, Transform, Load) processes
+- Data cleaning and preprocessing
+- Basic data automation with Python
+- Business intelligence and reporting
+- Statistical analysis and data interpretation
 
 ## 📫 How to reach me
 
